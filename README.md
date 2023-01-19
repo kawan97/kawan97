@@ -7,6 +7,7 @@
 
 I'm a full stack developer, I have graduated from institute and I was third among my class in IT field, and I have graduated from  college in IT field, I have
  very good experience in computer field in general and I am fond of it, as full stack developer i can work with both the client and server sides of a software application , and i can create mobile application with flutter and native script. You can find me on Twitter [@kawanpshtiwan](https://twitter.com/kawanpshtiwan). Feel free to tweet me any time.
+![Profile Views](https://komarev.com/ghpvc/?username=kawan97)
 
 &nbsp;
 
