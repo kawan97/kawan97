@@ -4,28 +4,13 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@kawanpshtiwan](https://twitter.com/kawanpshtiwan). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+I'm a full stack developer, I have graduated from institute and I was third among my class (3
+rd) in IT field, and I have graduated from  college in IT field, I have
+ very good experience in computer field in general and I am fond of it, as full stack developer i can work with both the client and server sides of a software application , and i can create mobile application with flutter and native script. You can find me on Twitter [@kawanpshtiwan](https://twitter.com/kawanpshtiwan). Feel free to tweet me any time.
 
 &nbsp;
 
-## 👇 &nbsp;Current project
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
-
-![Tweetormator](/assets/tweetormator.jpg)
-
-&nbsp;
-
-## ✏️ &nbsp;Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
 
 ## 🧰 &nbsp;My toolbox
 
