@@ -20,7 +20,7 @@ rd) in IT field, and I have graduated from  college in IT field, I have
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawan97&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/kawan97/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawan97&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/kawan97/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawan97&repo=img-classification-flutter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/kawan97/img-classification-flutter) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawan97&repo=school-management-system&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/kawan97/school-management-system)
 
 &nbsp;
 
