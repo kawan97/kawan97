@@ -13,6 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kawan97&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kawan97&icon=1&color=0)](https://visitcount.itsvg.in)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=kawan97)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
