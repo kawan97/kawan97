@@ -1,7 +1,6 @@
 # 👋 &nbsp;Hi there
 
-I'm a full stack developer, I have graduated from institute and I was third among my class in IT field, and I have graduated from  college in IT field, I have
- very good experience in computer field in general and I am fond of it, as full stack developer i can work with both the client and server sides of a software application , and i can create mobile application with flutter and native script. You can find me on Twitter [@kawanpshtiwan](https://twitter.com/kawanpshtiwan). Feel free to tweet me any time.
+Building efficient and scalable applications with Laravel and Node.js. Passionate about open source and collaborative projects. Check out my repositories for examples of my work and contributions. Always exploring new technologies and looking for exciting challenges , You can find me on Twitter [@kawanpshtiwan](https://twitter.com/kawanpshtiwan). Feel free to tweet me any time.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kawanpshtiwan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kawan97) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kawanpshtiwan) 
